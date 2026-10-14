@@ -1,0 +1,6 @@
+# ns-3 run outputs (regenerate with the scripts)
+*.pcap
+*.xml
+results.csv
+.DS_Store
+__pycache__/
